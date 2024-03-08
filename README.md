@@ -7,7 +7,7 @@ Fake news prediction involves the use of machine learning algorithms and natural
 ## Setup
 To run the code, follow these steps:
 1. Clone this repository to your local machine.
-2. Ensure you have Python installed along with the necessary libraries specified in the `requirements.txt` file.
+2. Ensure you have Python installed along with the necessary libraries.
 3. Download the dataset from Kaggle and place it in the appropriate directory.
 ## Usage
 1. Load the dataset and preprocess the data, including any necessary cleaning and feature engineering steps.
